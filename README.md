@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/main/assets/banner.png" width="100%" />
+  <img src="[https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/main/assets/banner.png](https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/0de0e303553f8f2f65c924cd00f90f22f7312ae9/(T%C3%BCrk%C3%A7e).png)" width="100%" />
 </p>
 
 
