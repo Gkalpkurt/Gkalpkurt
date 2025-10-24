@@ -1,3 +1,5 @@
+https://github.com/Gkalpkurt/Gkalpkurt/blob/main/(T%C3%BCrk%C3%A7e).png?raw=true
+
 # 👋 Merhaba, ben Muhammet Emin Gökalp Kurt
 
 🎓 Arel Üniversitesi Mekatronik Programı mezunuyum  
