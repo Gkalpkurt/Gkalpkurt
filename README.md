@@ -8,5 +8,15 @@
 
 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/gkalpkurt) | [GitHub](https://github.com/Gkalpkurt)
 
-![Banner](https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/main/assets/banner.png)
+### 🚀 Öne Çıkan Projeler
+
+- 🩺 [Veteriner Yönetim Sistemi](https://github.com/Gkalpkurt/VeterinerYonetimSistemi)
+  > Spring Boot + REST API | Doktor, Müşteri, Hayvan ve Aşı takibi
+
+- 📚 [Kütüphane Yönetim Sistemi](https://github.com/Gkalpkurt/KutuphaneYonetimSistemi)
+  > Kitap, yazar, yayınevi ve ödünç işlemleri yönetimi
+
+- ⚙️ [2D Printer Robotik Projesi](https://github.com/Gkalpkurt/2D-Printer)
+  > Arduino tabanlı mekanik sistem ve motor kontrolü
+
 
