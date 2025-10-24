@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/main/assets/banner.png)
-
 # 👋 Merhaba, ben Muhammet Emin Gökalp Kurt
 
 🎓 Arel Üniversitesi Mekatronik Programı mezunuyum  
