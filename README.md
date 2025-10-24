@@ -1,4 +1,7 @@
-https://github.com/Gkalpkurt/Gkalpkurt/blob/main/(T%C3%BCrk%C3%A7e).png?raw=true
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/main/assets/banner.png" width="100%" />
+</p>
+
 
 # 👋 Merhaba, ben Muhammet Emin Gökalp Kurt
 
@@ -31,8 +34,20 @@ https://github.com/Gkalpkurt/Gkalpkurt/blob/main/(T%C3%BCrk%C3%A7e).png?raw=true
 ---
 
 ### 📫 Bana Ulaş
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkalpkurt)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Gkalpkurt)
+### 📫 Bana Ulaş
+<p align="center">
+  <a href="https://www.linkedin.com/in/gkalpkurt" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:m.emin0012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gkalpkurt" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+</p>
+
 
 ---
 
