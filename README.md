@@ -1,22 +1,38 @@
-## 👋 Merhaba, ben Muhammet Emin Gökalp Kurt
+![Banner](https://raw.githubusercontent.com/Gkalpkurt/Gkalpkurt/main/assets/banner.png)
 
-🎓 Arel Üniversitesi Mekatronik Programı mezunu  
-💻 Şu anda Back-End Developer olarak kendimi geliştiriyorum  
-🚀 Java | Spring Boot | SQL | Git | REST API
+# 👋 Merhaba, ben Muhammet Emin Gökalp Kurt
 
-> Yazılım geliştirme, robotik ve otomasyon alanlarında üretmeyi seviyorum.
+🎓 Arel Üniversitesi Mekatronik Programı mezunuyum  
+💻 Şu anda **Patika+ Back-End Developer Programı** ile kendimi geliştiriyorum  
+🚀 Java | Spring Boot | Hibernate | SQL | Git | REST API  
+🤖 Arduino & Mekatronik tabanlı robotik projeler üzerinde de çalıştım  
 
-📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/gkalpkurt) | [GitHub](https://github.com/Gkalpkurt)
+---
 
-### 🚀 Öne Çıkan Projeler
+### 🧰 Kullandığım Teknolojiler
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,git,github,postman,idea,arduino" />
+</p>
 
-- 🩺 [Veteriner Yönetim Sistemi](https://github.com/Gkalpkurt/VeterinerYonetimSistemi)
-  > Spring Boot + REST API | Doktor, Müşteri, Hayvan ve Aşı takibi
+---
 
-- 📚 [Kütüphane Yönetim Sistemi](https://github.com/Gkalpkurt/KutuphaneYonetimSistemi)
-  > Kitap, yazar, yayınevi ve ödünç işlemleri yönetimi
+### 🌟 Öne Çıkan Projeler
 
-- ⚙️ [2D Printer Robotik Projesi](https://github.com/Gkalpkurt/2D-Printer)
-  > Arduino tabanlı mekanik sistem ve motor kontrolü
+#### 🩺 [Veteriner Yönetim Sistemi](https://github.com/Gkalpkurt/vet-system)
+> Spring Boot tabanlı REST API projesi.  
+> Doktor, müşteri, hayvan ve aşı yönetimi yapılabiliyor.  
+> Katmanlı mimari, JPA, Hibernate ve veritabanı ilişkileri içeriyor.
 
+#### 🚗 [Araç Kiralama Uygulaması (CLI)](https://github.com/Gkalpkurt/Car-Rental-CLI)
+> Konsol tabanlı araç kiralama sistemi.  
+> Müşteri kayıtları, araç ekleme, kiralama ve fiyat hesaplama işlemlerini yönetir.  
+> Nesne yönelimli programlama (OOP), Collections ve exception handling uygulamaları içerir.
+
+---
+
+### 📫 Bana Ulaş
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkalpkurt)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Gkalpkurt)
+
+---
 
